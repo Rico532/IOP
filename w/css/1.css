@@ -1,0 +1,46 @@
+.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 140px;
+    z-index: 999;
+}
+
+#ene {
+    cursor:pointer;
+}
+
+p {
+    font-size: 30px;
+}
+.table1 {
+    width: 100%;
+    height: auto;
+    border-width: 5px;
+    border-bottom-style: dashed;
+    border-bottom-color: #FF8800;
+}
+.table2 {
+    width: 100%;
+    height: auto;
+    border-width: 5px;
+    border-bottom-style: dashed;
+    border-bottom-color: #00DD00;
+}
+.table3 {
+    width: 100%;
+    height: auto;
+    border-width: 5px;
+    border-bottom-style: dashed;
+    border-bottom-color: #AA0000;
+}
+.img1 {
+    height: 450px;
+    float: left;
+    margin: 20px;
+}
+.img2 {
+    height: 450px;
+    float: right;
+    margin: 20px;
+}

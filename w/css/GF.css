@@ -1,0 +1,39 @@
+/*
+    position設定為背景
+    z-index設定圖層
+*/
+.bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -999;
+}
+
+.bg img {
+    min-height: 100%;
+    min-width: 1000px;
+    width: 100%;
+}
+.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 140px;
+    z-index: 999;
+}
+
+#ene {
+    cursor:pointer;
+}
+
+.th {
+    background-color: rgba(255, 255, 189, 0.7);
+    width: 200px;
+    height: 30px;
+}
+
+.td {
+    background-color: rgba(255, 255, 255, 0.6);
+}
