@@ -6,34 +6,32 @@
     z-index: 999;
 }
 
+.fixed2 {
+    position:fixed;
+    bottom: 0;
+    right: 1;
+    width: 300px;
+    z-index: 999;
+}
+
+#logo {
+    cursor:pointer;
+}
+
 #ene {
     cursor:pointer;
 }
 
 p {
+    color: white;
     font-size: 30px;
 }
-.table1 {
+
+.table {
     width: 100%;
     height: auto;
-    border-width: 5px;
-    border-bottom-style: dashed;
-    border-bottom-color: #FF8800;
 }
-.table2 {
-    width: 100%;
-    height: auto;
-    border-width: 5px;
-    border-bottom-style: dashed;
-    border-bottom-color: #00DD00;
-}
-.table3 {
-    width: 100%;
-    height: auto;
-    border-width: 5px;
-    border-bottom-style: dashed;
-    border-bottom-color: #AA0000;
-}
+
 .img1 {
     height: 450px;
     float: left;
@@ -43,4 +41,8 @@ p {
     height: 450px;
     float: right;
     margin: 20px;
+}
+
+body {
+    background-color: black;
 }

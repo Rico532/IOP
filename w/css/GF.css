@@ -28,6 +28,10 @@
     cursor:pointer;
 }
 
+.AR {
+    color:orange;
+}
+
 .th {
     background-color: rgba(255, 255, 189, 0.7);
     width: 200px;
