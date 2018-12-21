@@ -1,9 +1,32 @@
-# 以下為簡介
-<h2><a href="https://rico532.github.io/IOP/000">目錄</a><br></h2>
-<h2><a href="https://rico532.github.io/IOP/w/w1.html">w1教授  自我介紹</a><br></h2>
-<h2><a href="https://rico532.github.io/IOP/w/01-1.html">自制    手遊少女前線</a><br></h2>
-<h2>自制    動畫遊戲人生(架設中...)<br></h2>
-<h2><a href="https://rico532.github.io/IOP/w/w2.html">w2教授  少女前線圖鑑</a><br></h2>
-<h2><a href="https://rico532.github.io/IOP/w/w(1).html">w2助教  課表</a><br></h2>
-<h2><a href="https://rico532.github.io/IOP/w/w3.html">w3教授  淡江大戲</a><br></h2>
-<h2><a href="https://rico532.github.io/IOP/w/w(3).html">w3助教  div區塊練習</a><br></h2>
+[　首　　頁　](https://rico532.github.io/IOP/home)
+[　自　　製　](https://rico532.github.io/IOP/w/1.html)
+
+w01
+[　自我介紹　](https://rico532.github.io/IOP/w/intro.html)
+
+w02
+[少女前線圖鑑](https://rico532.github.io/IOP/w/GF.html)
+w02
+[　課　　表　](https://rico532.github.io/IOP/w/myclass.html)
+
+w03
+[　淡江大戲　](https://rico532.github.io/IOP/w/TKU60.html)
+w03
+[div區塊練習](https://rico532.github.io/IOP/w/div.html)
+
+w04
+[ttt區塊練習](https://rico532.github.io/IOP/w/ttt.html)
+w04
+[　 blog 　](https://rico532.github.io/IOP/w/blog.html)
+
+w05
+[　 image　](https://rico532.github.io/IOP/w/image%20gallery.html)
+
+w06
+[　寵 物 窩　](https://rico532.github.io/IOP/w/pet%20website.html)
+
+w07
+[Bootstrap](https://rico532.github.io/IOP/w/galleryTemplate.html)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTIxNTg2MTgwNywtMTUxOTU3MzE3M119
+-->
